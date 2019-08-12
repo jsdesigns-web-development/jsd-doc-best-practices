@@ -1,13 +1,19 @@
-1. Double-check all content is correct.
-2. Double-check all links are correct, including contact info like email addresses, phone numbers, physical addresses and social media accounts.
-3. Always create a favicon. (see `creating-favicons.md`)
-4. Always create a sitemap. A sitemap looks like every other page of the website, except the body contains a list of links to the pages on the website.
-5. Always include the Google Analytics script.
-6. If social media links are going unused, be sure to comment them out "<\!-- this is an HTML comment -->"
-7. Social Media <meta\> tags should always be included on ever page (see `html-head.md`)
-8. All filenames must be lowercase and descriptive. For example, a page talking about "General Liability Insurance" should have the file name `general-liability-insurance.html`
+1. Review all content for accuracy.
+2. Verify that all links are correct across all pages of the site. Including contact info like email addresses, phone numbers, physical addresses and social media accounts.
+3. Phone numbers & email addresses should always be clickable. (e.g. <a href="tel:18001234567">...)
+4. Create a favicon. (see `creating-favicons.md`)
+5. Fill in `<title>`
+6. Add social media meta data in `<head>` on every page (see `html-head.md`)
+7. Fill in other `<meta>` and `<link>` tags.
+8. Always create an XML sitemap. A sitemap looks like every other page of the website, except the body contains a list of links to the pages on the website.
+9. Always include the Google Analytics script.
+10. If social media links provided by a template are going unused, be sure they are commented-out "<\!-- an HTML comment -->"
+11. All filenames must be lowercase and descriptive. For example, a page talking about "General Liability Insurance" should have the file name `general-liability-insurance.html`
 
 
+
+
+Research Reference:
 - [Contrast](http://www.writedesignonline.com/resources/design/rules/contrast.html)
 - [Beneath The Surface Appearance](http://www.writedesignonline.com/history-culture/AndyGoldsworthy/overview.htm)
 - [Color](http://writedesignonline.com/resources/design/rules/color.html)

@@ -7,7 +7,7 @@
 7. Fill in other `<meta>` and `<link>` tags.
 8. Always create an XML sitemap. A sitemap looks like every other page of the website, except the body contains a list of links to the pages on the website.
 9. Always include the Google Analytics script.
-10. If social media links provided by a template are going unused, be sure they are commented-out "<\!-- an HTML comment -->"
+10. If social media links provided by a template are going unused, be sure they are commented-out `<\!-- an HTML comment -->`
 11. All filenames must be lowercase and descriptive. For example, a page talking about "General Liability Insurance" should have the file name `general-liability-insurance.html`
 
 
